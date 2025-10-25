@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Arion Pax  
 
-<!--
-**Arionpax/Arionpax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Developer | Open Source Enthusiast | Tech Explorer**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about building clean, efficient, and user-focused projects that make technology more accessible and fun.  
+I enjoy experimenting with web frameworks, automation tools, and creative side projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I Do
+- 💻 Full-stack web development (Django, React, Node.js)  
+- ⚙️ Automation, APIs, and microservices  
+- 📊 Data handling, analysis, and visualization  
+- 🧠 Learning AI & Machine Learning  
+
+---
+
+### 🧰 Tech Stack
+`Python` · `JavaScript` · `Django` · `React` · `HTML` · `CSS` · `Git` · `SQL`
+
+---
+
+### 🌱 Currently Exploring
+- Building open-source tools and utilities  
+- Improving performance and scalability in web apps  
+- Contributing to community projects  
+
+---
+
+### 📫 Connect With Me
+- 💼 [GitHub Profile](https://github.com/arionpax)  
+- 🧩 Open for collaboration and cool ideas!  
+
+---
+
+⭐ **“Code. Create. Collaborate.”**
